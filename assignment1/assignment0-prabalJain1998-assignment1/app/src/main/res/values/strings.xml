@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Covid Precautions App</string>
+    <string name="greeting_text">Hello</string>
+</resources>
